@@ -1,4 +1,21 @@
 {
+  "name": "typescript-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apicgg/typescript-crash-course.git"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apicgg/typescript-crash-course/issues"
+  },
+  "homepage": "https://github.com/apicgg/typescript-crash-course#readme",
   "dependencies": {
     "typescript": "^4.7.4"
   }

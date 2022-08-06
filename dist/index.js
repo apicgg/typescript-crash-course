@@ -81,4 +81,4 @@ function getArray(items) {
 }
 let numArray = getArray([1, 2, 3, 4]);
 let strArray = getArray(['brad', 'John', 'Jill']);
-strArray.push(1); // Throws error
+// strArray.push(1) // Throws error
