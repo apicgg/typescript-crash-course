@@ -75,6 +75,8 @@ const user1: UserInterface = {
   name: 'John',
 }
 
+// user1.id = 2
+
 interface MathFunc {
   (x: number, y: number): number
 }
